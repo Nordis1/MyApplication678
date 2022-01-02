@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     Thread currentThread;
     AsyncTask task;
     Executor executor;
+    String s = "Stanislav";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
